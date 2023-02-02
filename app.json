@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f644ac2c-408d-4cb8-97da-b54f82dbafe6"
+      }
+    },
+    "owner": "davis-shyaka"
   }
 }
